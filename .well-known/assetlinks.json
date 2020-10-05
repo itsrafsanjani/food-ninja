@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.web.newage_app.twa",
+                   "sha256_cert_fingerprints": ["C3:D3:CD:09:CD:6E:7B:09:AD:FB:FD:F4:43:89:BE:73:D7:8E:A7:A1:83:55:B3:71:F7:64:21:AD:30:C4:09:08"] }
+    }]
